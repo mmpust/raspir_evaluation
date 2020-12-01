@@ -22,4 +22,23 @@ C) Input file raspir_run_statistics.csv <br>
 - Two different alignment tools were used (bowtie2 and bwa) <br> 
 <br>
 
-## Mock_community/ <br>
+## MockCommunity/ <br>
+A) Compressed .FASTA files of the core and rare species of the mock community <br>
+*Core species* <br>
+eubacterium_sulci_ref.fasta.gz <br>
+pseudomonas_aeruginosa_ref.fasta.gz <br>
+rothia_mucilaginosa_ref.fasta.gz <br>
+streptococcus_salivarius_ref.fasta.gz <br>
+<br>
+*Rare species* <br>
+escherichia_coli_ref.fasta.gz <br>
+staphylococcus_aureus_ref.fasta.gz <br>
+streptococcus_equinus_ref.fasta.gz <br>
+streptococcus_mitis_ref.fasta.gz <br>
+streptococcus_thermophilus_ref.fasta.gz <br>
+streptococcus_pneumoniae_ref.fasta.gz <br>
+<br>
+B) Bash script (run_art.sh) for generating Illumina simulated .FASTQ files <br>
+To use the script, the ART tool has to be installed. ART contains simulation software to generate synthetic next-generation sequencing reads. <br><br>
+```conda install -c bioconda art```
+<br>
