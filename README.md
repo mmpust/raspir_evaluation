@@ -1,8 +1,10 @@
-# raspir_evaluation
+# Performance evaluation of raspir
 R-scripts, metadata and input files
  <br>
  <br>
-Content list of the folder performance_evaluation/ <br>
+
+# List of contents
+## Performance_evaluation/  <br>
 A) Rmarkdown script for data analysis <br>
 B) Input file exampleRun_mockCommunity_seed222.csv <br> 
 - Species are given as row and run parameters as column names  <br> 
@@ -19,3 +21,5 @@ C) Input file raspir_run_statistics.csv <br>
 - Shows all the numerical data obtained for simulations run with 20 different seeds set for the random read generator <br> 
 - Two different alignment tools were used (bowtie2 and bwa) <br> 
 <br>
+
+## Mock_community/ <br>
