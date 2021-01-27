@@ -1,0 +1,13 @@
+Species,r_value,p_value,stError,euclidean,distribution
+Bacteroides thetaiotaomicron,0.9837,0.0,0.0,0.292,uniform
+Sorangium cellulosum,0.9819,0.0,0.0,0.278,uniform
+Rhodococcus erythropolis,0.9841,0.0,0.0,0.043,uniform
+Bacteroides vulgatus,0.9863,0.0,1e-05,0.241,uniform
+Ralstonia pickettii,0.9676,0.0,0.0,0.008,uniform
+Variovorax paradoxus,0.9949,0.0,0.0,0.366,uniform
+Sandaracinus amylolyticus,0.9657,0.0,1e-05,0.3,uniform
+Archangium gephyra,0.9819,0.0,0.0,0.388,uniform
+Labilithrix luteola,0.9919,0.0,0.0,0.452,uniform
+Minicystis rosea,0.9938,0.0,0.0,0.253,uniform
+Pseudomonas veronii,0.9654,0.0,1e-05,0.341,uniform
+Variovorax boronicumulans,0.9854,0.0,0.0,0.111,uniform
