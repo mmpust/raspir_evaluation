@@ -1,5 +1,0 @@
-Species,r_value,p_value,stError,euclidean,distribution
-Bacteroides thetaiotaomicron,0.9856,0.0,0.0,0.008,uniform
-Ralstonia pickettii,0.973,0.0,0.0,0.003,uniform
-Ralstonia mannitolilytica,0.9856,0.0,0.0,0.488,uniform
-Bacteroides ovatus,0.9731,0.0,0.0,0.065,uniform

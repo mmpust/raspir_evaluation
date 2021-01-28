@@ -1,5 +1,0 @@
-Species,r_value,p_value,stError,euclidean,distribution
-Ralstonia pickettii,0.9753,0.0,0.0,0.016,uniform
-Akkermansia muciniphila,0.987,0.0,0.0,0.154,uniform
-Ralstonia mannitolilytica,0.9819,0.0,1e-05,0.44,uniform
-Ralstonia insidiosa,0.8802,0.0,2e-05,0.42,uniform
