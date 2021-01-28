@@ -23,7 +23,10 @@ exampleRun_mockCommunity_seed222.csv (input file, heatmap visualisation)<br>
 
 raspir_run_statistics.csv (data analysis, clinimetric properties)<br>
 - Shows all the numerical data obtained for simulations run with 20 different seeds set for the random read generator <br> 
-- Two different alignment tools were used (bowtie2 and bwa) <br><br><br>
+- Two different alignment tools were used (Bowtie 2 and BWA) <br><br><br>
+
+## Performance_evaluation/biological_samples/ <br>
+download_fastq.sh (bash script for downloading biological samples with sra-explorer) <br> <br> <br>
 
 ## Performance_evaluation/biological_samples/alignment_output <br>
 rawCounts_merged_samples_SRR7049258 (count table, per sample and species with raw read counts)  <br>
