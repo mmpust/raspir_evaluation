@@ -4,9 +4,7 @@
 ## Leiby, J.S., McCormick, K., Sherrill-Mix, S. et al. Lack of detection of a human placenta microbiome in samples from preterm and term deliveries. Microbiome 6, 196 (2018). 
 ## https://doi.org/10.1186/s40168-018-0575-4
 
-
 ## Download of .FASTQ.GZ files with sra-explorer
-
 ## Saliva (M)	Collected in sterile 50-mL conical tube
 curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR704/003/SRR7049073/SRR7049073_1.fastq.gz -o SRR7049073_S47_shotgun_1.fastq.gz
 curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR704/003/SRR7049073/SRR7049073_2.fastq.gz -o SRR7049073_S47_shotgun_2.fastq.gz
@@ -105,11 +103,3 @@ curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR704/008/SRR7049188/SRR7049188_1.fa
 curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR704/008/SRR7049188/SRR7049188_2.fastq.gz -o SRR7049188_FP79_shotgun_2.fastq.gz
 curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR704/007/SRR7049187/SRR7049187_1.fastq.gz -o SRR7049187_FP80_shotgun_1.fastq.gz
 curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR704/007/SRR7049187/SRR7049187_2.fastq.gz -o SRR7049187_FP80_shotgun_2.fastq.gz
-
-
-
-
-
-
-
-
