@@ -52,7 +52,3 @@ streptococcus_mitis_ref.fasta.gz <br>
 streptococcus_thermophilus_ref.fasta.gz <br>
 streptococcus_pneumoniae_ref.fasta.gz <br>
 <br>
-B) Bash script (run_art.sh) for generating Illumina simulated .FASTQ files <br>
-To use the script, the ART tool has to be installed. ART contains simulation software to generate synthetic next-generation sequencing reads. <br><br>
-```conda install -c bioconda art```
-<br>
